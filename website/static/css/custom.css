@@ -1,0 +1,189 @@
+.navigationSlider .slidingNav ul li a,
+.siteNavItemActive a,
+.fixedHeaderContainer a {
+  color:#777 !important;
+}
+
+.mainContainer a {
+  color: #337ab7 !important;
+}
+
+.navGroup a:hover {
+  color:black !important;
+}
+
+h2,
+.projectTitle,
+.navListItemActive a {
+  color:#777 !important;
+}
+
+.button {
+  border: 1px solid #337ab7;
+  color:#777 !important;
+}
+
+.nav-footer {
+  background: #f8f8f8;
+}
+
+.nav-footer .copyright {
+  color: #777 !important;
+  font-size: 85%;
+}
+
+/*
+
+Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>
+based on dark.css by Ivan Sagalaev
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #3f3f3f;
+  color: #dcdcdc;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-tag {
+  color: #e3ceab;
+}
+
+.hljs-template-tag {
+  color: #dcdcdc;
+}
+
+.hljs-number {
+  color: #8cd0d3;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute {
+  color: #efdcbc;
+}
+
+.hljs-literal {
+  color: #efefaf;
+}
+
+.hljs-subst {
+  color: #8f8f8f;
+}
+
+.hljs-title,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-section,
+.hljs-type {
+  color: #efef8f;
+}
+
+.hljs-symbol,
+.hljs-bullet,
+.hljs-link {
+  color: #dca3a3;
+}
+
+.hljs-deletion,
+.hljs-string,
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #cc9393;
+}
+
+.hljs-addition,
+.hljs-comment,
+.hljs-quote,
+.hljs-meta {
+  color: #7f9f7f;
+}
+
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+/* */
+
+.navPusher { 
+  padding-top: 50px;
+}
+
+.onPageNav {
+  top:98px !important;
+}
+
+/* copy functionnality */
+
+pre {
+  position: relative;
+}
+
+pre .btn-icon {
+  position: absolute;
+  top: 0px;
+  z-index: 2;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 0;
+  color: #fff;
+  background-color: transparent;
+  height: 34px;
+  transition: all .25s ease-out;
+}
+
+pre .btn-icon:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-icon__body {
+  align-items: center;
+  display: flex;
+}
+
+.btn-icon svg {
+  fill: currentColor;
+  margin-right: .4em;
+}
+
+.btn-icon__label {
+  font-size: 11px;
+}
+
+.btn-clipboard {
+  right: 10px;
+}
+
+/* media queries */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+  .onPageNav {
+    top:98px !important;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+  .onPageNav {
+    top:98px !important;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
