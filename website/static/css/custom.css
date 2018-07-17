@@ -32,6 +32,10 @@ h2,
   font-size: 85%;
 }
 
+.navListItem.navListItemActive {
+  background-color: #f8f8f8;
+}
+
 /*
 
 Zenburn style from voldmar.ru (c) Vladimir Epifanov <voldmar@voldmar.ru>
