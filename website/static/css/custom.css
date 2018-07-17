@@ -165,6 +165,13 @@ pre .btn-icon:hover {
   right: 10px;
 }
 
+/* block quote */
+
+blockquote {
+  border-left: 8px solid #5bc0de;
+  background-color: #e3edf2;
+}
+
 /* media queries */
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
