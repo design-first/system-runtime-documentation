@@ -1,13 +1,17 @@
 const siteConfig = {
-  title: 'System Runtime',
+  title: 'System Designer',
   tagline: 'A JavaScript library that runs systems',
   url: 'https://designfirst.io',
-  baseUrl: '../',
+  baseUrl: '/systemruntime/documentation/',
 
   projectName: '',
   organizationName: '',
 
-  headerLinks: [],
+  headerLinks: [
+    { doc: 'what-is-system-designer', label: 'Documentation' },
+    { href: 'https://github.com/design-first/system-runtime/issues', label: 'Support' },
+    { href: 'https://github.com/design-first/system-runtime', label: 'Github' }
+  ],
 
   headerIcon: 'img/logo.png',
   footerIcon: 'img/logo.png',
@@ -25,7 +29,7 @@ const siteConfig = {
   },
 
   scripts: [
-    '../js/links.js',
+    '../js/links-website.js',
     '../js/clipboard.js',
     '../js/copy.js'
   ],
@@ -37,4 +41,3 @@ const siteConfig = {
 };
 
 module.exports = siteConfig;
-
