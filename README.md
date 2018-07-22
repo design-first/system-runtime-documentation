@@ -1,5 +1,7 @@
 # System Runtime Documentation
 
+![Image Alt](https://designfirst.io/img/system-runtime-documentation.png)
+
 ## Installation
 
 Clone the repository:
