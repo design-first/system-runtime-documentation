@@ -171,3 +171,11 @@ blockquote {
   background: #fff;
   color: #000;
 }
+
+/* logo */
+
+@media (max-width: 480px) {
+  .headerTitleWithLogo {
+    display: block!important;
+  }
+}

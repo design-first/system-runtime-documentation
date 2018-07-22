@@ -1,13 +1,13 @@
 ---
 id: what-is-system-runtime
-title: What is System Runtime?
-sidebar_label: What is System Runtime?
+title: What is System Runtime ?
+sidebar_label: What is System Runtime ?
 ---
 
 When you code, you do not create an application, you create in fact a [system](https://en.wikipedia.org/wiki/System).
 System Runtime give you the APIs to create the model, components and behaviors of your system.
 
-## What is a system?
+## What is a system ?
 
 A system:
 

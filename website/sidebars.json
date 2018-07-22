@@ -1,13 +1,49 @@
 {
   "docs": {
     "Introduction": [
-      "what-is-system-runtime"
+      "what-is-system-runtime",
+      "system-runtime-architecture",
+      "what-is-design-first",
+      "overview"
     ],
     "Guides": [
+      "quick-start",
+      "install-system-runtime",
+      "design-your-model",
+      "create-components",
+      "manage-your-components",
+      "bundle-your-components",
+      "extend-system-runtime",
+      "go-deeper"
     ],
     "Examples": [
+      "a-basic-hello-world",
+      "create-a-bundle",
+      "install-a-bundle-client-side",
+      "install-a-bundle-in-html",
+      "install-a-bundle-server-side",
+      "package-a-bundle",
+      "create-a-component",
+      "create-new-types",
+      "create-a-one-to-one-relationship",
+      "create-a-one-to-many-relationship",
+      "navigate-threw-the-model",
+      "inheritance-between-components",
+      "listen-to-a-change-of-state-of-a-component",
+      "use-system-runtime-nosql-database",
+      "object-document-mapper-in-action",
+      "use-system-runtime-core-apis"
+    ],
+    "APIS": [
+      "component-class",
+      "runtime-component",
+      "metamodel-component",
+      "logger-component",
+      "db-component",
+      "document-collection"
     ],
     "About": [
+      "who-is-behind-system-runtime"
     ]
   }
 }
