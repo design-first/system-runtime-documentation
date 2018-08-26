@@ -91,7 +91,7 @@ So we need to override these values. To do so, we have to create a new MSON to o
 
 >**What kind of types can we use ?**
 >
->System Runtime manages the following types: **boolean**, **string**, **number**, **object**, **array**, **date** and **any**.\nYou can also create your own type.
+>System Runtime manages the following types: **boolean**, **string**, **number**, **object**, **array**, **date** and **any**.You can also create your own type.
 
 ## Loading your model
 
