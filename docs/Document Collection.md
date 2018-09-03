@@ -27,7 +27,7 @@ You can use query selectors:
 ```js
 runtime.require('db').collections().Person.find({
   'firstName': {
-    '$eg': 'Laure
+    '$eg': 'Laure'
   }
 });
 ```
