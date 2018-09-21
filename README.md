@@ -27,7 +27,7 @@ Then go to `build/docs` folder and open `what-is-system-runtime.html`.
 
 ## Licenses
 
-### System Runtime documentation template
+### Docusaurus
 
 The MIT License (MIT)
 

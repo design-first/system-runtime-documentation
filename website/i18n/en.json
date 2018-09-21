@@ -4,85 +4,164 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "A JavaScript library that runs systems",
-    "a-basic-hello-world": "A basic \"hello world\"",
-    "A basic \"hello world\"": "A basic \"hello world\"",
-    "create-a-bundle": "Create a bundle",
-    "Create a bundle": "Create a bundle",
-    "install-a-bundle-client-side": "Install a bundle client-side",
-    "Install a bundle client-side": "Install a bundle client-side",
-    "install-a-bundle-in-html": "Install a bundle in HTML",
-    "Install a bundle in HTML": "Install a bundle in HTML",
-    "install-a-bundle-server-side": "Install a bundle server-side",
-    "Install a bundle server-side": "Install a bundle server-side",
-    "package-a-bundle": "Package a bundle",
-    "Package a bundle": "Package a bundle",
-    "create-a-component": "Create a component",
-    "Create a component": "Create a component",
-    "create-new-types": "Create new types",
-    "Create new types": "Create new types",
-    "create-a-one-to-one-relationship": "Create a one to one relationship",
-    "Create a one to one relationship": "Create a one to one relationship",
-    "create-a-one-to-many-relationship": "Create a one to many relationship",
-    "Create a one to many relationship": "Create a one to many relationship",
-    "navigate-threw-the-model": "Navigate threw the model",
-    "Navigate threw the model": "Navigate threw the model",
-    "inheritance-between-components": "Inheritance between components",
-    "Inheritance between components": "Inheritance between components",
-    "listen-to-a-change-of-state-of-a-component": "Listen to a change of state of a component",
-    "Listen to a change of state of a component": "Listen to a change of state of a component",
-    "structure-your-code": "Structure your code",
-    "Structure your code": "Structure your code",
-    "use-system-runtime-nosql-database": "Use System Runtime NoSQL Database",
-    "Use System Runtime NoSQL Database": "Use System Runtime NoSQL Database",
-    "object-document-mapper-in-action": "Object-Document Mapper in action",
-    "Object-Document Mapper in action": "Object-Document Mapper in action",
-    "use-system-runtime-core-apis": "Use System Runtime core apis",
-    "Use System Runtime core apis": "Use System Runtime core apis",
-    "quick-start-example": "Quick Start example",
-    "Quick Start example": "Quick Start example",
-    "bundle-your-components": "Bundle your components",
-    "Bundle your components": "Bundle your components",
-    "component-class": "Component Class",
-    "Component Class": "Component Class",
-    "create-components": "Create components",
-    "Create components": "Create components",
-    "db-component": "db Component",
-    "db Component": "db Component",
-    "design-your-model": "Design your model",
-    "Design your model": "Design your model",
-    "document-collection": "Document Collection",
-    "Document Collection": "Document Collection",
-    "extend-system-runtime": "Extend System Runtime",
-    "Extend System Runtime": "Extend System Runtime",
-    "go-deeper": "Go deeper",
-    "Go deeper": "Go deeper",
-    "install-system-runtime": "How to install System Runtime",
-    "How to install System Runtime": "How to install System Runtime",
-    "logger-component": "logger Component",
-    "logger Component": "logger Component",
-    "manage-your-components": "Manage your components",
-    "Manage your components": "Manage your components",
-    "metamodel-component": "metamodel Component",
-    "metamodel Component": "metamodel Component",
-    "overview": "Overview",
-    "Overview": "Overview",
-    "quick-start": "Quick Start",
-    "Quick Start": "Quick Start",
-    "runtime-component": "runtime Component",
-    "runtime Component": "runtime Component",
-    "system-runtime-architecture": "System Runtime architecture",
-    "System Runtime architecture": "System Runtime architecture",
-    "what-is-design-first": "What is Design First ?",
-    "What is Design First ?": "What is Design First ?",
-    "what-is-system-runtime": "What is System Runtime ?",
-    "What is System Runtime ?": "What is System Runtime ?",
-    "who-is-behind-system-runtime": "Who is behind System Runtime ?",
-    "Who is behind System Runtime ?": "Who is behind System Runtime ?",
-    "Introduction": "Introduction",
-    "Guides": "Guides",
-    "Examples": "Examples",
-    "APIS": "APIS",
-    "About": "About"
+    "docs": {
+      "a-basic-hello-world": {
+        "title": "A basic \"hello world\"",
+        "sidebar_label": "A basic \"hello world\""
+      },
+      "create-a-bundle": {
+        "title": "Create a bundle",
+        "sidebar_label": "Create a bundle"
+      },
+      "install-a-bundle-client-side": {
+        "title": "Install a bundle client-side",
+        "sidebar_label": "Install a bundle client-side"
+      },
+      "install-a-bundle-in-html": {
+        "title": "Install a bundle in HTML",
+        "sidebar_label": "Install a bundle in HTML"
+      },
+      "install-a-bundle-server-side": {
+        "title": "Install a bundle server-side",
+        "sidebar_label": "Install a bundle server-side"
+      },
+      "package-a-bundle": {
+        "title": "Package a bundle",
+        "sidebar_label": "Package a bundle"
+      },
+      "create-a-component": {
+        "title": "Create a component",
+        "sidebar_label": "Create a component"
+      },
+      "create-new-types": {
+        "title": "Create new types",
+        "sidebar_label": "Create new types"
+      },
+      "create-a-one-to-one-relationship": {
+        "title": "Create a one to one relationship",
+        "sidebar_label": "Create a one to one relationship"
+      },
+      "create-a-one-to-many-relationship": {
+        "title": "Create a one to many relationship",
+        "sidebar_label": "Create a one to many relationship"
+      },
+      "navigate-threw-the-model": {
+        "title": "Navigate threw the model",
+        "sidebar_label": "Navigate threw the model"
+      },
+      "inheritance-between-components": {
+        "title": "Inheritance between components",
+        "sidebar_label": "Inheritance between components"
+      },
+      "listen-to-a-change-of-state-of-a-component": {
+        "title": "Listen to a change of state of a component",
+        "sidebar_label": "Listen to a change of state of a component"
+      },
+      "structure-your-code": {
+        "title": "Structure your code",
+        "sidebar_label": "Structure your code"
+      },
+      "use-system-runtime-nosql-database": {
+        "title": "Use System Runtime NoSQL Database",
+        "sidebar_label": "Use System Runtime NoSQL Database"
+      },
+      "object-document-mapper-in-action": {
+        "title": "Object-Document Mapper in action",
+        "sidebar_label": "Object-Document Mapper in action"
+      },
+      "use-system-runtime-core-apis": {
+        "title": "Use System Runtime core apis",
+        "sidebar_label": "Use System Runtime core apis"
+      },
+      "quick-start-example": {
+        "title": "Quick Start example",
+        "sidebar_label": "Quick Start example"
+      },
+      "bundle-your-components": {
+        "title": "Bundle your components",
+        "sidebar_label": "Bundle your components"
+      },
+      "component-class": {
+        "title": "Component Class",
+        "sidebar_label": "Component Class"
+      },
+      "create-components": {
+        "title": "Create components",
+        "sidebar_label": "Create components"
+      },
+      "db-component": {
+        "title": "db Component",
+        "sidebar_label": "db Component"
+      },
+      "design-your-model": {
+        "title": "Design your model",
+        "sidebar_label": "Design your model"
+      },
+      "document-collection": {
+        "title": "Document Collection",
+        "sidebar_label": "Document Collection"
+      },
+      "extend-system-runtime": {
+        "title": "Extend System Runtime",
+        "sidebar_label": "Extend System Runtime"
+      },
+      "go-deeper": {
+        "title": "Go deeper",
+        "sidebar_label": "Go deeper"
+      },
+      "install-system-runtime": {
+        "title": "How to install System Runtime",
+        "sidebar_label": "How to install System Runtime"
+      },
+      "logger-component": {
+        "title": "logger Component",
+        "sidebar_label": "logger Component"
+      },
+      "manage-your-components": {
+        "title": "Manage your components",
+        "sidebar_label": "Manage your components"
+      },
+      "metamodel-component": {
+        "title": "metamodel Component",
+        "sidebar_label": "metamodel Component"
+      },
+      "overview": {
+        "title": "Overview",
+        "sidebar_label": "Overview"
+      },
+      "quick-start": {
+        "title": "Quick Start",
+        "sidebar_label": "Quick Start"
+      },
+      "runtime-component": {
+        "title": "runtime Component",
+        "sidebar_label": "runtime Component"
+      },
+      "system-runtime-architecture": {
+        "title": "System Runtime architecture",
+        "sidebar_label": "System Runtime architecture"
+      },
+      "what-is-design-first": {
+        "title": "What is Design First ?",
+        "sidebar_label": "What is Design First ?"
+      },
+      "what-is-system-runtime": {
+        "title": "What is System Runtime ?",
+        "sidebar_label": "What is System Runtime ?"
+      },
+      "who-is-behind-system-runtime": {
+        "title": "Who is behind System Runtime ?",
+        "sidebar_label": "Who is behind System Runtime ?"
+      }
+    },
+    "links": {},
+    "categories": {
+      "Introduction": "Introduction",
+      "Guides": "Guides",
+      "Examples": "Examples",
+      "APIS": "APIS",
+      "About": "About"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
