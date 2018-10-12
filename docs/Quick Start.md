@@ -202,7 +202,7 @@ Then add this *link* tag in your HTML to install the bundle:
 Then add this *script* tag in your HTML to install *System Runtime*:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.0.0/dist/system-runtime.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.0.2/dist/system-runtime.min.js"></script>
 ```
 
 System Runtime will install the bundle on the load of the page. The *start* method of the system will be called when the bundle will be installed.
@@ -221,7 +221,7 @@ runtime.require('db').collections().Jedi.count();
 
 System Runtime stores all the component you create in its database. So the result of this script will be **2** because we have created 2 *Jedi* components.
 
->**bout System Runtime NoSQL Database APIs**
+>**About System Runtime NoSQL Database APIs**
 >
 >The APIs to query the database are mongoDB-like, so it is very easy to learn them.
 

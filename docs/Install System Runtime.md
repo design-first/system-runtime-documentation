@@ -29,7 +29,7 @@ Then you can use System Runtime in your script:
 Add this *script* tag in your HTML to install System Runtime:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.0.0/dist/system-runtime.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.0.2/dist/system-runtime.min.js"></script>
 ```
 
 Then you can use System Runtime in your script:
