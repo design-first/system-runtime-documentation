@@ -10,11 +10,11 @@ sidebar_label: System Runtime architecture
 
 ### A metamodel
 
-System Runtime contains a metamodel to help you to design your model. The definition of the model is made on a JSON format called [MSON](Design your model.md#defining-your-model), no code is needed. 
+System Runtime contains a metamodel to help you to design your model. The definition of the model is made on a JSON format called [MSON](design-your-model.html#defining-your-model), no code is needed. 
 
-With [MSON](Design your model.md#defining-your-model) you can define types, classes, one to one / one to many relationships and multi inheritance between classes. 
+With [MSON](design-your-model.html#defining-your-model) you can define types, classes, one to one / one to many relationships and multi inheritance between classes. 
 
-[MSON](Design your model.md#defining-your-model) is based on [UML](http://uml.org), so learning it is very easy.
+[MSON](design-your-model.html#defining-your-model) is based on [UML](http://uml.org), so learning it is very easy.
 
 ### A component factory
 

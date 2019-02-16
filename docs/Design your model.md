@@ -173,4 +173,4 @@ In this article, we saw that:
 - you can override these generated models and
 - you can create new types.
 
-In a next article, we will introduce you how System Runtime uses these schemas to [create components](Create components.md).
+In a next article, we will introduce you how System Runtime uses these schemas to [create components](create-components.html).

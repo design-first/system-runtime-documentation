@@ -38,4 +38,4 @@ Then you can use System Runtime in your script:
 runtime.version();
 ```
 
-Now that you have installed System Runtime, let's [design your model](Design your model.md).
+Now that you have installed System Runtime, let's [design your model](design-your-model.html).

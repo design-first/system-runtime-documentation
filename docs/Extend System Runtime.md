@@ -103,4 +103,4 @@ We saw in that article:
 * how to **add addons** and
 * how to **add extensions**.
 
-In the last article, we will [go deeper in the use of System Runtime](Go deeper.md).
+In the last article, we will [go deeper in the use of System Runtime](go-deeper.html).

@@ -241,4 +241,4 @@ We saw in that article:
 * you can **bundle a systems**,
 * you can **install/compose systems** with another.
 
-In a next article we will discuss on [how to extend System Runtime](Extend System Runtime.md).
+In a next article we will discuss on [how to extend System Runtime](extend-system-runtime.html).

@@ -227,4 +227,4 @@ System Runtime stores all the component you create in its database. So the resul
 
 ## Conclusion
 
-Now that you have finished the quick start, you can go on learning System Runtime: let's [design your model](Design your model.md).
+Now that you have finished the quick start, you can go on learning System Runtime: let's [design your model](design-your-model.html).

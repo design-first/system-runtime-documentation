@@ -298,4 +298,4 @@ To sum up this little introduction to System Runtime components:
 * for implementing methods, we need to add **behaviors** and
 * System  Runtime accepts **multi-inheritance**, **one to one** and **one to many relationships** between components.
 
-In the a next article, we will see [how System Runtime manages these components](Manage your components.md).
+In the a next article, we will see [how System Runtime manages these components](manage-your-components.html).
