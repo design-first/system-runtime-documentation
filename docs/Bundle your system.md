@@ -1,7 +1,7 @@
 ---
-id: bundle-your-components
-title: Bundle your components
-sidebar_label: Bundle your components
+id: bundle-your-system
+title: Bundle your system
+sidebar_label: Bundle your system
 ---
 
 In System Runtime you can share the components you have created with other systems.

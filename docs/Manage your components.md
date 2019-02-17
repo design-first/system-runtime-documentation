@@ -176,4 +176,4 @@ We saw on this article that:
 * **everything is a component** in System Runtime,
 * you use System Runtime NoSQL DB to find, create, update or delete a component.
 
-In the next article we will talk about [systems](bundle-your-components.html).
+In the next article we will talk about [systems](bundle-your-system.html).

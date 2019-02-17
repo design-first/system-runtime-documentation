@@ -37,7 +37,7 @@ In our example:
 * *children* is a collection of components, that is why it has **collection** values and
 * *fullName* is a method of the model, that is why it has **method** value.
 
-In System Runtime,** the schema is used to generated the model** that contains the default type of each property. 
+In System Runtime, **the schema is used to generated the model** that contains the default type of each property. 
 
 Based on the schema we wrote, the generated model will look like this:
 
@@ -91,7 +91,7 @@ So we need to override these values. To do so, we have to create a new MSON to o
 
 >**What kind of types can we use ?**
 >
->System Runtime manages the following types: **boolean**, **string**, **number**, **object**, **array**, **date** and **any**.You can also create your own type.
+>System Runtime manages the following types: **boolean**, **string**, **number**, **object**, **array**, **date** and **any**. You can also create your own type.
 
 ## Loading your model
 
