@@ -77,9 +77,9 @@
         "title": "Quick Start example",
         "sidebar_label": "Quick Start example"
       },
-      "bundle-your-components": {
-        "title": "Bundle your components",
-        "sidebar_label": "Bundle your components"
+      "bundle-your-system": {
+        "title": "Bundle your system",
+        "sidebar_label": "Bundle your system"
       },
       "component-class": {
         "title": "Component Class",
