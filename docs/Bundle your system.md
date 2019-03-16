@@ -14,11 +14,11 @@ When you create an application in System Runtime, you are in fact defining a **s
 * **behaviors**: the description of how your components react when their states change and
 * **components**: your components.
 
-![Image Alt](../img/UuhkIYCaRY6IpUFVFY7Q_system.png)
+![Image Alt](../../img/UuhkIYCaRY6IpUFVFY7Q_system.png)
 
 All core components of System Runtime work in order to run your system and to check that all is compliant with the model you have defined:
 
-![Image Alt](../img/5uyCwqSeSo9mXexqLLdw_archi.png)
+![Image Alt](../../img/5uyCwqSeSo9mXexqLLdw_archi.png)
 
 * **System Runtime database** stores your system and the state of your component,
 * **System Runtime metamodel** creates your model and
