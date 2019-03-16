@@ -2,7 +2,7 @@ const siteConfig = {
   title: 'System Runtime',
   tagline: 'A JavaScript library that runs systems',
   url: 'https://designfirst.io',
-  baseUrl: '../',
+  baseUrl: '../../',
 
   projectName: '',
   organizationName: '',
@@ -25,9 +25,9 @@ const siteConfig = {
   },
 
   scripts: [
-    '../js/links.js',
-    '../js/clipboard.js',
-    '../js/copy.js'
+    '../../js/links.js',
+    '../../js/clipboard.js',
+    '../../js/copy.js'
   ],
 
   onPageNav: 'separate',
