@@ -1,7 +1,7 @@
 ---
-id: navigate-threw-the-model
-title: Navigate threw the model
-sidebar_label: Navigate threw the model
+id: navigate-through-the-model
+title: Navigate through the model
+sidebar_label: Navigate through the model
 ---
 
 ```js
@@ -47,7 +47,7 @@ system.on('start', () => {
   // get the component
   const leia = this.require('leia');
 
-  // navigate threw the links between components
+  // navigate through the links between components
   console.log(leia.father().son().firstName());
 });
 

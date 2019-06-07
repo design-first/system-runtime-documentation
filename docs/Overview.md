@@ -46,7 +46,7 @@ anakin.nickname(42);
 runtime: invalid type for property 'nickname': expected 'string' instead of 'number' on component '11d4012f0c18734'
 ```
 
-## Navigate threw your components
+## Navigate through your components
 
 ```js
 // add a reference

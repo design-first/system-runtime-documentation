@@ -246,7 +246,7 @@ const luke = new Jedi({
 // add reference
 luke.father(anakin);
 
-// nagivate threw components
+// nagivate through components
 luke.father().firstName();
 ```
 
@@ -284,7 +284,7 @@ const padme = new Jedi({
 // add the children
 padme.children([luke, leia]);
 
-// navigate threw components
+// navigate through components
 padme.children(1).firstName();
 ```
 

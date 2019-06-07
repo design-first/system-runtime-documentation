@@ -27,7 +27,7 @@
       "create-new-types",
       "create-a-one-to-one-relationship",
       "create-a-one-to-many-relationship",
-      "navigate-threw-the-model",
+      "navigate-through-the-model",
       "inheritance-between-components",
       "listen-to-a-change-of-state-of-a-component",
       "use-system-runtime-nosql-database",
