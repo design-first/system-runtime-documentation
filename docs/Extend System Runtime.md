@@ -56,7 +56,7 @@ npm run build
 ```
 
 It will:
-*  build System Runtime core module for the server library and and
+*  build System Runtime core module for the server library and
 *  build System Runtime client library on the **/dist** directory
 
 ## Add addons
