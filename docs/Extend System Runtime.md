@@ -59,10 +59,8 @@ npm run build
 ```
 
 It will:
-*  generate System Runtime core system in the **/build** directory,
-*  generate System Runtime core module for the server library,
-*  build System Runtime client library on the **/dist** directory,
-*  run jshint and server/client tests.
+*  build System Runtime core module for the server library and and
+*  build System Runtime client library on the **/dist** directory
 
 ## Add addons
 

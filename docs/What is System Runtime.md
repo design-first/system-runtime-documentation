@@ -73,7 +73,7 @@ Just add a link tag in your HTML to install and start your bundle:
 <link rel="system" type="application/json" href="system.json">
 
 <!-- load System Runtime -->
-<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.1.0/dist/system-runtime
+<script src="https://cdn.jsdelivr.net/npm/system-runtime@3.2.0/dist/system-runtime
 ```
 
 ## Install the bundle in Node.js
