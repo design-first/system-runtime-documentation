@@ -34,7 +34,7 @@ npm run dev
 ```
 
 All the modifications to the source code of System Runtime will:
-*  build System Runtime core system in the **/build** directory and
+*  build System Runtime core module for the server library and
 *  build System Runtime core module for the server library.
 
 ### Update source code
