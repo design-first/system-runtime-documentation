@@ -4,7 +4,7 @@ title: How to install System Runtime
 sidebar_label: How to install System Runtime
 ---
 
-System Runtime is a client and server JavaScript library, so you can install it either with [npm](https://www.npmjs.com) or with [bower](http://bower.io).
+System Runtime is a client and server JavaScript library, so you can install it either with [npm](https://www.npmjs.com) or with a CDN.
 
 ## Installation with NPM
 
