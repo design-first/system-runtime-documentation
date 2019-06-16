@@ -32,7 +32,8 @@
       "listen-to-a-change-of-state-of-a-component",
       "use-system-runtime-nosql-database",
       "object-document-mapper-in-action",
-      "use-system-runtime-core-apis"
+      "use-system-runtime-core-apis",
+      "quick-start-example"
     ],
     "APIS": [
       "component-class",
