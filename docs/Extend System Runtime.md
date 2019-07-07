@@ -39,7 +39,7 @@ All the modifications to the source code of System Runtime will build System Run
 
 System Runtime has got a **customizable core system**. You can update all its components, models or behaviors to follow your needs. To do so:
 
-* open a version of [System Designer](http://designfirst.io/systemdesigner/),
+* open a version of [System Designer](https://designfirst.io/systemdesigner/),
 * import System Runtime core system on the [/src/system](https://github.com/design-first/system-runtime/tree/master/src/system) directory,
 * edit the system,
 * export it,

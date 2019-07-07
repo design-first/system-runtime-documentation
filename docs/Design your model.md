@@ -8,7 +8,7 @@ Designing a model in System Runtime is very simple, you do not have to code but 
 
 ## Defining your model
 
-What is MSON? MSON stands for **Metamodel JavaScript Object Notation**, it is a human readable format based on [JSON](http://json.org) that will help you to define your model.
+What is MSON? MSON stands for **Metamodel JavaScript Object Notation**, it is a human readable format based on [JSON](https://json.org) that will help you to define your model.
 
 For example, let's say we want to create the Person model:
 

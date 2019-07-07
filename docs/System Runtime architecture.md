@@ -18,7 +18,7 @@ With [MSON](design-your-model.html#defining-your-model) you can define types, cl
 
 ### A component factory
 
-System Runtime uses the [Model-Driven Architecture](http://www.omg.org/mda/) approach to create classes based on your design. Use them to instantiate your components. 
+System Runtime uses the [Model-Driven Architecture](https://www.omg.org/mda/) approach to create classes based on your design. Use them to instantiate your components. 
 
 ### A NoSQL Database
 

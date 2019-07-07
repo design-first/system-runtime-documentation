@@ -56,7 +56,7 @@ Let’s get some properties of the component:
 
 ![Image Alt](../../img/1Sum1yr8TFSW11Em3CjS_console3.png)
 
-Properties are methods in System Runtime. They behave the same as [jQuery](http://jquery.com) APIs:
+Properties are methods in System Runtime. They behave the same as [jQuery](https://jquery.com) APIs:
 
 * to get the value of a property, just call the method with the same name without parameter and
 * to set the value of a property, call the method with the same name with a parameter.
