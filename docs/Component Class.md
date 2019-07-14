@@ -4,15 +4,6 @@ title: Component Class
 sidebar_label: Component Class
 ---
 
-## classInfo( )
-
-- **Description:** Give all informations about the model of the component.
-- **Schema:** _Component
-
-```js
-component.classInfo();
-```
-
 ## destroy( )
 
 - **Description:** Destroy the component.
