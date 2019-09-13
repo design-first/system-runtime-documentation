@@ -45,9 +45,9 @@
         "title": "Create a one to many relationship",
         "sidebar_label": "Create a one to many relationship"
       },
-      "navigate-threw-the-model": {
-        "title": "Navigate threw the model",
-        "sidebar_label": "Navigate threw the model"
+      "navigate-through-the-model": {
+        "title": "Navigate through the model",
+        "sidebar_label": "Navigate through the model"
       },
       "inheritance-between-components": {
         "title": "Inheritance between components",
@@ -112,6 +112,10 @@
       "install-system-runtime": {
         "title": "How to install System Runtime",
         "sidebar_label": "How to install System Runtime"
+      },
+      "license": {
+        "title": "License",
+        "sidebar_label": "License"
       },
       "logger-component": {
         "title": "logger Component",
