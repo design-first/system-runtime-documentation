@@ -202,7 +202,7 @@ Then add this *link* tag in your HTML to install the bundle:
 Then add this *script* tag in your HTML to install *System Runtime*:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/system-runtime@4.0.1/dist/system-runtime.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/system-runtime/dist/system-runtime.min.js"></script>
 ```
 
 System Runtime will install the bundle on the load of the page. The *start* method of the system will be called when the bundle will be installed.
