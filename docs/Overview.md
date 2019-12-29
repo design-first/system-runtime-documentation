@@ -68,6 +68,12 @@ runtime.require('db').collections().Person.find({
 });
 ```
 
+## Undo your modifications made to the system
+
+```js
+runtime.require('history').back();
+```
+
 ## Bundle your system
 
 ```js

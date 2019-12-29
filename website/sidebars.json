@@ -33,6 +33,7 @@
       "use-system-runtime-nosql-database",
       "object-document-mapper-in-action",
       "use-system-runtime-core-apis",
+      "use-history",
       "quick-start-example"
     ],
     "APIS": [
@@ -41,6 +42,7 @@
       "metamodel-component",
       "logger-component",
       "db-component",
+      "history-component",
       "document-collection"
     ],
     "About": [
