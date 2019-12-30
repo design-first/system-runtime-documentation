@@ -64,6 +64,14 @@ component.on('eventName', () => {
 }, true);
 ```
 
+- System Runtime history module with **$history**:
+
+```js
+component.on('eventName', () => {
+  $history.start();
+}, true);
+```
+
 >**With great power comes great responsibility**
 >
 >By using System Runtime core apis, you will be able to control the way System Runtime manages your system. You will be able to bypass some contraints and the compliance to your model can be incomplete.

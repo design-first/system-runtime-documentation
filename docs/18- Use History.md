@@ -31,7 +31,7 @@ system.on('start', () => {
   // get the component
   const luke = this.require('luke');
 
-  // get history component and start historization
+  // get history component
   const history = this.require('history');
 
   // start historization of all modifications made to the system

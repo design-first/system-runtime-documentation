@@ -14,6 +14,16 @@ sidebar_label: history Component
 runtime.require('history').back();
 ```
 
+## clear()
+
+- **Description:** Clear the history.
+- **Schema:** _History
+- **Inherit:** _Component
+
+```js
+runtime.require('history').clear();
+```
+
 ## dump( )
 
 - **Description:** Export all the modifications made to the system.
@@ -34,7 +44,7 @@ const dump = runtime.require('history').dump();
 runtime.require('history').back();
 ```
 
-## from( id )
+## from( index )
 
 - **Description:** Start the index to go back/forward in the history at the correct value. If index is `-1`, we start from the last modification made to the system.
 - **Schema:** _History
