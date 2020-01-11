@@ -11,7 +11,7 @@ sidebar_label: db Component
 - **Inherit:** _Component
 
 ```js
-const arrDocument = runtime.require('db').collections().Person.find({
+const arrDocuments = runtime.require('db').collections().Person.find({
   'firstName': 'Laure'
 });
 ```

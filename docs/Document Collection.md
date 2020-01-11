@@ -14,7 +14,7 @@ const nbDocuments = runtime.require('db').collections().Person.count();
 
 ## find( query ) : array
 
-- **Description:** Find a document into the collection. Ii returns an array of the id of the found document.
+- **Description:** Find a document into the collection. It returns an array of id of the found documents.
 
 ```js
 const arrDocuments = runtime.require('db').collections().Person.find({
@@ -42,7 +42,7 @@ const arrDocuments = runtime.require('db').collections().Person.find().sort({
 
 ## insert( document ) : array
 
-- **Description:** Insert an new document into the collection. It returns an array of the id of the created documents.
+- **Description:** Insert an new document into the collection. It returns an array of id of the created documents.
 
 ```js
 const arrDocumentId = runtime.require('db').collections().Person.insert({
@@ -53,7 +53,7 @@ const arrDocumentId = runtime.require('db').collections().Person.insert({
 
 ## update( query, document, option ) : array
 
-- **Description:** Update documents into a collection. It returns an array of the id of the updated documents.
+- **Description:** Update documents into a collection. It returns an array of id of the updated documents.
 
 ```js
 const arrDocumentId = runtime.require('db').collections().Person.update(
@@ -65,7 +65,7 @@ const arrDocumentId = runtime.require('db').collections().Person.update(
 
 ## remove( query ) : array
 
-- **Description:** Remove a document from the collection. It returns an array of the id of the removed documents.
+- **Description:** Remove a document from the collection. It returns an array of id of the removed documents.
 
 ```js
 const arrDocumentId = runtime.require('db').collections().Person.remove(
