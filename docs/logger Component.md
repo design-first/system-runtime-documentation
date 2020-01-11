@@ -45,7 +45,7 @@ runtime.require('logger').info('this is an info message');
 
 ## level( levelName )
 
-- **Description:** Set the level of log. Possible values are: **debug**, **info**, **warn** and **debug**. By default the level is set to **warn**.
+- **Description:** Set the level of log. Possible values are: **debug**, **info**, **warn** and **error**. By default the level is set to **warn**.
 - **Schema:** _Logger
 - **Inherit:** _Component
 
