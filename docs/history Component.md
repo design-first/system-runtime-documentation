@@ -4,14 +4,14 @@ title: history Component
 sidebar_label: history Component
 ---
 
-## back()
+## back() : number
 
-- **Description:** Go back to the history of modifications made to the system.
+- **Description:** Go back to the history of modifications made to the system. It returns the index of the current history stack.
 - **Schema:** _History
 - **Inherit:** _Component
 
 ```js
-runtime.require('history').back();
+const currentIndex = runtime.require('history').back();
 ```
 
 ## clear()
@@ -24,7 +24,7 @@ runtime.require('history').back();
 runtime.require('history').clear();
 ```
 
-## dump( )
+## dump( ) : string
 
 - **Description:** Export all the modifications made to the system.
 - **Schema:** _History
@@ -34,14 +34,24 @@ runtime.require('history').clear();
 const dump = runtime.require('history').dump();
 ```
 
-## forward()
+## get( index ) : object
 
-- **Description:** Go forward to the history of modifications made to the system.
+- **Description:** Get one item of the history stack.
 - **Schema:** _History
 - **Inherit:** _Component
 
 ```js
-runtime.require('history').back();
+const item = runtime.require('history').get(-1);
+```
+
+## forward() : number
+
+- **Description:** Go forward to the history of modifications made to the system. It returns the index of the current history stack.
+- **Schema:** _History
+- **Inherit:** _Component
+
+```js
+const currentIndex = runtime.require('history').back();
 ```
 
 ## from( index )
@@ -54,15 +64,15 @@ runtime.require('history').back();
 runtime.require('history').from(-1);
 ```
 
-## load( dump )
+## load( dump ) : boolean
 
-- **Description:** Load an historization and apply the modifications to the current system.
+- **Description:** Load an historization and apply the modifications to the current system. It returns true if the dump has been loaded without error.
 - **Schema:** _History
 - **Inherit:** _Component
 
 ```js
 const dump = runtime.require('history').dump();
-runtime.require('history').load(dump);
+const success = runtime.require('history').load(dump);
 ```
 
 ## start( )

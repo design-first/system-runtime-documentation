@@ -13,13 +13,13 @@ sidebar_label: Component Class
 component.destroy();
 ```
 
-## id( )
+## id( ) : string
 
 - **Description:** Get the unique ID of a component.
 - **Schema:** _Component
 
 ```js
-component.id();
+const id = component.id();
 ```
 
 ## off( event )
@@ -40,11 +40,11 @@ component.off('eventName');
 component.on('eventName', () => {});
 ```
 
-## require( id )
+## require( id ) : Component
 
 - **Description:** Get a component by its unique id.
 - **Schema:** _Component
 
 ```js
-component.require('db');
+const db = component.require('db');
 ```

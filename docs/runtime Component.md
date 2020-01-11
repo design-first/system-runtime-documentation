@@ -4,19 +4,19 @@ title: runtime Component
 sidebar_label: runtime Component
 ---
 
-## bundle( )
+## bundle( ) : string
 
-- **Description:** Bundle the running system into a stringified JSON object.
+- **Description:** Bundle the running system into a stringified JSON object and returns it.
 - **Schema:** _Runtime
 - **Inherit:** _Component
 
 ```js
-runtime.bundle();
+const bundle = runtime.bundle();
 ```
 
-## install( path , async )
+## install( path , async ) : string
 
-- **Description:** Install a system given a relative path. **async** parameter is optional.
+- **Description:** Install a system given a relative path and returns the id of the installed system. **async** parameter is optional.
 - **Schema:** _Runtime
 - **Inherit:** _Component
 
@@ -61,17 +61,17 @@ runtime.start(systemId);
 runtime.stop(systemId);
 ```
 
-## status( )
+## status( ): object
 
-- **Description:** Show the status of all the installed systems.
+- **Description:** Show the status of all the installed systems. It returns an object of all the systems and their status.
 - **Schema:** _Runtime
 - **Inherit:** _Component
 
 ```js
-runtime.status();
+const status = runtime.status();
 ```
 
-## system( )
+## system( ): System
 
 - **Description:** Get the current system.
 - **Schema:** _Runtime
@@ -81,7 +81,7 @@ runtime.status();
 const system = runtime.system();
 ```
 
-## system( name )
+## system( name ) : System
 
 - **Description:** Create a system.
 - **Schema:** _Runtime

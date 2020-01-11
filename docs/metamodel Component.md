@@ -14,27 +14,27 @@ sidebar_label: metamodel Component
 runtime.require('metamodel').create();
 ```
 
-## model( name, définition )
+## model( name, définition ) : string
 
-- **Description:** Override a model.
+- **Description:** Override a model. It returns the id of the model.
 - **Schema:** _Metamodel
 - **Inherit:** _Component
 
 ```js
-runtime.require('metamodel').model('Person', {
+const modelId = runtime.require('metamodel').model('Person', {
   'name': 'string',
   'firstName': 'string'
 });
 ```
 
-## schema( name, definition )
+## schema( name, definition ): string
 
-- **Description:** Define a schema.
+- **Description:** Define a schema. It returns the id of the schema.
 - **Schema:** _Metamodel
 - **Inherit:** _Component
 
 ```js
-runtime.require('metamodel').schema('Person', {
+const schemaId = runtime.require('metamodel').schema('Person', {
   'name'; 'property',
   'firstName': 'property'
 });
@@ -42,10 +42,10 @@ runtime.require('metamodel').schema('Person', {
 
 ## type( name, definition )
 
-- **Description:** Define a type.
+- **Description:** Define a type. It returns the id of the type.
 - **Schema:** _Metamodel
 - **Inherit:** _Component
 
 ```js
-runtime.require('metamodel').type('color', ['blue', 'white', 'red']);
+const typeId = runtime.require('metamodel').type('color', ['blue', 'white', 'red']);
 ```
