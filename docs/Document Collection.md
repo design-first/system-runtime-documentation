@@ -4,7 +4,7 @@ title: Document Collection
 sidebar_label: Document Collection
 ---
 
-## count( )
+## count( ) : number
 
 - **Description:** Returns the number of document in a collection.
 
@@ -12,7 +12,7 @@ sidebar_label: Document Collection
 const nbDocuments = runtime.require('db').collections().Person.count();
 ```
 
-## find( query )
+## find( query ) : array
 
 - **Description:** Find a document into the collection. Ii returns an array of the id of the found document.
 
@@ -40,7 +40,7 @@ const arrDocuments = runtime.require('db').collections().Person.find().sort({
 });
 ```
 
-## insert( document )
+## insert( document ) : array
 
 - **Description:** Insert an new document into the collection. It returns an array of the id of the created documents.
 
@@ -51,7 +51,7 @@ const arrDocumentId = runtime.require('db').collections().Person.insert({
 });
 ```
 
-## update( query, document, option )
+## update( query, document, option ) : array
 
 - **Description:** Update documents into a collection. It returns an array of the id of the updated documents.
 
@@ -63,7 +63,7 @@ const arrDocumentId = runtime.require('db').collections().Person.update(
 );
 ```
 
-## remove( query )
+## remove( query ) : array
 
 - **Description:** Remove a document from the collection. It returns an array of the id of the removed documents.
 
