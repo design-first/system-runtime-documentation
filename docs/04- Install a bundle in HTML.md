@@ -32,4 +32,4 @@ runtime.on('ready', () => {
 
 >**Version compatibility**
 >
->Remember that the example works works only client-side.
+>Remember that the example works only client-side.

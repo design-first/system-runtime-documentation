@@ -15,4 +15,4 @@ runtime.install('example02.json');
 
 >**Version compatibility**
 >
->Remember that the example works works only server-side.
+>Remember that the example works only server-side.
