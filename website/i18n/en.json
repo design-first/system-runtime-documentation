@@ -73,6 +73,10 @@
         "title": "Use System Runtime core apis",
         "sidebar_label": "Use System Runtime core apis"
       },
+      "use-history": {
+        "title": "Use System Runtime history apis",
+        "sidebar_label": "Use System Runtime history apis"
+      },
       "quick-start-example": {
         "title": "Quick Start example",
         "sidebar_label": "Quick Start example"
@@ -108,6 +112,10 @@
       "go-deeper": {
         "title": "Go deeper",
         "sidebar_label": "Go deeper"
+      },
+      "history-component": {
+        "title": "history Component",
+        "sidebar_label": "history Component"
       },
       "install-system-runtime": {
         "title": "How to install System Runtime",
@@ -158,11 +166,7 @@
         "sidebar_label": "Who is behind System Runtime ?"
       }
     },
-    "links": {
-      "DOCUMENTATION": "DOCUMENTATION",
-      "SUPPORT": "SUPPORT",
-      "GITHUB": "GITHUB"
-    },
+    "links": {},
     "categories": {
       "Introduction": "Introduction",
       "Guides": "Guides",
