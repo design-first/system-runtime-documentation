@@ -12,7 +12,7 @@ What is MSON? MSON stands for **Metamodel JavaScript Object Notation**, it is a 
 
 For example, let's say we want to create the Person model:
 
-![Image Alt](../../img/23497fb-Person.png)
+![Image Alt](../../img/design-your-model-person.png)
 
 To define this model in MSON, we have to write something like that:
 

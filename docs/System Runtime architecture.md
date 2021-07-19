@@ -6,7 +6,7 @@ sidebar_label: System Runtime architecture
 
 ## What contains System Runtime ?
 
-![Image Alt](../../img/86a9bfc-archi.png)
+![Image Alt](../../img/system-runtime-architecture-archi.png)
 
 ### A metamodel
 

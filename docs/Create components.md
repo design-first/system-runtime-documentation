@@ -41,7 +41,7 @@ const jean = new Person({
 });
 ```
 
-![Image Alt](../../img/TorTeOkiS3mDURbe1Lqh_console2.png)
+![Image Alt](../../img/create-components-console-1.png)
 
 We see that:
 
@@ -54,18 +54,18 @@ So if the component is immutable, how can we change its properties ? We can do i
 
 Let’s get some properties of the component:
 
-![Image Alt](../../img/1Sum1yr8TFSW11Em3CjS_console3.png)
+![Image Alt](../../img/create-components-console-2.png)
 
 Properties are methods in System Runtime. They behave the same as [jQuery](https://jquery.com) APIs:
 
 * to get the value of a property, just call the method with the same name without parameter and
 * to set the value of a property, call the method with the same name with a parameter.
 
-![Image Alt](../../img/KKaAuNsVTQ2KE4LzHLwh_console4.png)
+![Image Alt](../../img/create-components-console-3.png)
 
 Now we call the method *getFullName*:
 
-![Image Alt](../../img/DtIbInAORnK0B5bzlSeg_console5.png)
+![Image Alt](../../img/create-components-console-4.png)
 
 The result is *undefined* because we did not yet define its **behavior**.
 
@@ -81,7 +81,7 @@ Person.on('getFullName', () => this.firstName() + ' ' + this.lastName());
 
 When we call the method *getFullName*, we get the correct result.
 
-![Image Alt](../../img/DFQNMaFRzCrDcTUYpQK3_console6.png)
+![Image Alt](../../img/create-components-console-5.png)
 
 ## Implementing events
 

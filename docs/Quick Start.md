@@ -15,7 +15,7 @@ A system:
 - is composed by **components** and
 - reacts to events with **behaviors**.
 
-![Image Alt](../../img/fa7f5de-6565096-UuhkIYCaRY6IpUFVFY7Q_system.png)
+![Image Alt](../../img/quick-start-system.png)
 
 ## Install System Runtime
 
@@ -48,7 +48,7 @@ const system = runtime.system('mySystem');
 
 We will create a *Jedi* class:
 
-![Image Alt](../../img/0GW9Z1mJT0q8ZTeAAvPs_Jedi.png)
+![Image Alt](../../img/quick-start-model.png)
 
 To do so, get *metamodel* component to create your model:
 
@@ -209,7 +209,7 @@ System Runtime will install the bundle on the load of the page. The *start* meth
 
 Run the page and look at the console of your browser:
 
-![Image Alt](../../img/Ge9QsuHQTm6WpoZPMfiw_console-result.png)
+![Image Alt](../../img/quick-start-console-result.png)
 
 ## Use System Runtime NoSQL APIs
 
