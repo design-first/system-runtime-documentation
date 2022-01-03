@@ -9,7 +9,6 @@ const siteConfig = {
 
   headerLinks: [
     { languages: true },
-    { doc: 'what-is-system-runtime', label: 'DOCUMENTATION' },
     { href: 'https://github.com/design-first/system-runtime/issues', label: 'SUPPORT' },
     { href: 'https://github.com/design-first/system-runtime', label: 'GITHUB' }
   ],
