@@ -201,3 +201,9 @@ blockquote {
 .languages-icon {
   display: none;
 }
+
+/* translate icon */
+
+.edit-page-link.button {
+  display: none;
+}

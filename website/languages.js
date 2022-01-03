@@ -134,7 +134,7 @@ const languages = [
   {
     enabled: true,
     name: 'Română',
-    tag: 'ro',
+    tag: 'ro-RO',
   },
   {
     enabled: false,
