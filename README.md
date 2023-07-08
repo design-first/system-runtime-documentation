@@ -33,8 +33,9 @@ Then go to `build` folder and open `index.html`.
 npm run start
 ```
 - a browser will open the documenation site. If not, go to `http://localhost:3000`.
+- Update the documentation in `docs` folder.
 
-> Note: the page is automatically refreshed when you modify the source code.
+> Note: the page is automatically refreshed when you modify the documentation code.
 
 ## Licenses
 
