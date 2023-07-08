@@ -26,7 +26,7 @@ npm i
 npm run build
 ```
 
-Then go to `build` folder and open `index.html`.
+Then go to `build` folder and open `index.html` in your browser to read the documentation.
 
 ## Development
 
