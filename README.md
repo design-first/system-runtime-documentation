@@ -25,6 +25,17 @@ npm run build
 
 Then go to `build` folder and open `index.html`.
 
+## Development
+
+- rename `siteConfig.website.js` to `siteConfig.js`.
+- start the server:
+```sh
+npm run start
+```
+- a browser will open the documenation site. If not, go to `http://localhost:3000`.
+
+> Note: the page is automatically refreshed when you modify the source code.
+
 ## Licenses
 
 ### Docusaurus
