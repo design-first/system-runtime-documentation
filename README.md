@@ -27,12 +27,12 @@ Then go to `build` folder and open `index.html`.
 
 ## Development
 
-- rename `siteConfig.website.js` to `siteConfig.js`.
-- start the server:
+- Rename `siteConfig.website.js` to `siteConfig.js`.
+- Start the server:
 ```sh
 npm run start
 ```
-- a browser will open the documenation site. If not, go to `http://localhost:3000`.
+- A browser will open the documenation site. If not, go to `http://localhost:3000`.
 - Update the documentation in `docs` folder.
 
 > Note: the page is automatically refreshed when you modify the documentation code.
