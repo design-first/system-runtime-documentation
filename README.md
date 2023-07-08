@@ -35,7 +35,7 @@ npm run start
 - A browser will open the documentation site. If not, go to `http://localhost:3000`.
 - Update the documentation in `docs` folder.
 
-> Note: the page is automatically refreshed when you modify the documentation code.
+> Note: the page is automatically refreshed when you modify the documentationx.
 
 ## Licenses
 
