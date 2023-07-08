@@ -1,6 +1,6 @@
 # System Runtime Documentation
 
-This repository contains the documentation of [System Runtime](https://github.com/design-first/system-runtime) that is available [online](https://designfirst.io/systemruntime/documentation/docs/en/what-is-system-runtime.html).
+This repository contains the documentation of [System Runtime](https://github.com/design-first/system-runtime) that is available [online](https://designfirst.io/systemruntime/documentation/).
 You can use this project to read the documentation locally.
 
 ![Image Alt](https://designfirst.io/img/system-runtime-documentation.png)
