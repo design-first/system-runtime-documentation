@@ -27,7 +27,8 @@ const siteConfig = {
   copyright: 'System Runtime is distributed under Apache License 2.0 - Copyright © 2022 Erwan Carriou',
 
   highlight: {
-    theme: 'zenburn'
+    theme: 'zenburn',
+    themeUrl : '../../css/zenburn.css'
   },
 
   scripts: [
