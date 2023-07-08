@@ -1,5 +1,8 @@
 # System Runtime Documentation
 
+This repository contains the documentation of [System Runtime](https://github.com/design-first/system-runtime) that is available [online](https://designfirst.io/systemruntime/documentation/docs/en/what-is-system-runtime.html).
+You can use this project to read the documentation locally.
+
 ![Image Alt](https://designfirst.io/img/system-runtime-documentation.png)
 
 ## Installation
@@ -35,7 +38,7 @@ npm run start
 - A browser will open the documentation site. If not, go to `http://localhost:3000`.
 - Update the documentation in `docs` folder.
 
-> Note: the page is automatically refreshed when you modify the documentationx.
+> Note: the page is automatically refreshed when you modify the documentation.
 
 ## Licenses
 
